@@ -1,0 +1,61 @@
+StudyTime,PreviousTestScore,Result,Parent_Education
+5,87,HighPass,College
+3,82,Fail,Bachelors
+7,98,HighPass,Bachelors
+6,74,LowPass,High School
+5,99,HighPass,College
+1,47,Fail,Masters
+9,88,HighPass,Masters
+5,94,HighPass,Bachelors
+10,99,HighPass,Not Educated
+8,93,HighPass,Bachelors
+4,58,LowPass,Bachelors
+10,90,HighPass,Masters
+6,78,HighPass,College
+3,65,Fail,Not Educated
+8,86,HighPass,High School
+6,75,HighPass,Not Educated
+10,91,HighPass,Bachelors
+10,95,HighPass,High School
+9,89,HighPass,College
+2,67,Fail,Bachelors
+7,97,HighPass,College
+1,37,Fail,High School
+9,90,HighPass,High School
+8,87,HighPass,Masters
+8,91,HighPass,Bachelors
+1,45,Fail,Not Educated
+9,96,HighPass,High School
+5,96,HighPass,Masters
+4,56,LowPass,High School
+3,70,Fail,Not Educated
+3,69,Fail,College
+3,73,Fail,High School
+10,99,HighPass,Not Educated
+9,93,HighPass,High School
+5,89,HighPass,Not Educated
+2,79,Fail,Bachelors
+6,82,HighPass,Bachelors
+9,91,HighPass,Not Educated
+9,91,HighPass,Not Educated
+8,86,HighPass,Not Educated
+10,95,HighPass,Not Educated
+2,65,Fail,Bachelors
+6,84,HighPass,Not Educated
+5,92,HighPass,College
+10,93,HighPass,High School
+8,95,HighPass,Masters
+6,79,HighPass,Masters
+4,64,LowPass,Masters
+9,96,HighPass,Not Educated
+1,43,Fail,Masters
+10,96,HighPass,High School
+6,89,HighPass,High School
+5,93,HighPass,Masters
+3,83,Fail,High School
+10,99,HighPass,Not Educated
+4,65,LowPass,Masters
+1,49,Fail,Not Educated
+2,69,Fail,College
+6,87,HighPass,Not Educated
+2,70,Fail,High School
